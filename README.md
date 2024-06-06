@@ -1,41 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Roberth - Backend Developer</title>
-</head>
-<body>
-
-<h1 align="center">Hi 👋, I'm Roberth, a backend developer.</h1>
+</h1>
 <h3 align="center">Passionate about technology and the IT world</h3>
 
-<ul>
-    <li>🔭 I am currently working on projects with Spring Boot, Angular, and Xamarin Forms for the mobile part.</li>
-    <li>🌱 I am currently learning independently backend development, especially microservices.</li>
-    <li>📫 Contact <a href="mailto:be6323787@gmail.com">be6323787@gmail.com</a></li>
-</ul>
 
-<h2 align="center">Skills</h2>
+- 🔭 I am currently working on projects with spring boot, angular and xamarin forms for the mobile part
 
-<h3 align="center">Technologies</h3>
-<p align="center">
-    <img height="20" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img height="20" alt=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-    <img height="20" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img height="20" alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img height="20" alt="GraphQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-    <img height="20" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</p>
+- 🌱 I am currently learning independently backend development, most of all microservices
 
-<table align="center">
-    <tr>
-        <td><a href="https://github.com/juniorDeveloper8/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=juniorDeveloper8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats"></a></td>
-        <td><a href="https://github.com/juniorDeveloper8/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorDeveloper8&layout=compact&theme=buefy&hide_border=true" alt="Top Langs"></a></td>
-    </tr>
-</table>
+- 📫 Contact **be6323787@gmail.com**
+  
+<h2>Skills</h2>
 
-</body>
-</html>
+<h3 align="center">Tegnologies</h3>
+
+<code><img height="20" alt="Java" src="https://github.com/juniorDeveloper8/juniorDeveloper8/assets/105600402/b6d7aef0-7193-4d9c-bd1f-49c2367ef4f8" ></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt=".NET" src="https://github.com/juniorDeveloper8/juniorDeveloper8/assets/105600402/5dda0c8d-d47a-4600-885c-bd8ff383a32a"></code>
+<code><img height="20" alt="Angular" src="https://github.com/juniorDeveloper8/juniorDeveloper8/assets/105600402/d56517a0-730c-4db6-9077-4c0256173835"></code>
+<code><img height="20" alt="Spring" src="https://github.com/juniorDeveloper8/juniorDeveloper8/assets/105600402/bb2c92cf-c5db-4d10-b888-6ef6dd21a857"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+| <a href="https://github.com/juniorDeveloper8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorDeveloper8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/juniorDeveloper8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorDeveloper8&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
